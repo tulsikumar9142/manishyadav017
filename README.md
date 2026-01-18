@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tulsi yadav@07
+- 👋 Hi, I’m @tulsiyadav9142
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-manishyadav017/manishyadav017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tulsiyadav9142/tulsiyadav9142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
